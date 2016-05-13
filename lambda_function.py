@@ -5,5 +5,5 @@ import json
 print('Loading function')
 
 
-def lambda_function(event, context):
-    return "Holaaaaaa yoo"
+def lambda_handler(event, context):
+    return "Holaaaaaa yoo. jajajajajajaja"
