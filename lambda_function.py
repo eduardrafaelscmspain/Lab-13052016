@@ -2,4 +2,4 @@ import json
 
 
 def lambda_handler(event, context):
-    return event
+    return event["key1"]
