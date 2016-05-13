@@ -6,4 +6,4 @@ print('Loading function')
 
 
 def lambda_handler(event, context):
-    return "Holaaaaaa yoo. jajajajajajaja"
+    return "Holaaaaaa yoo. auto zippiinnggg"
