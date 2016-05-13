@@ -1,4 +1,5 @@
+import json
 
 
 def lambda_handler(event, context):
-    return context
+    return json.dumps(context)
